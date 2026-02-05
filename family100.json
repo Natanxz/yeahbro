@@ -1,0 +1,965 @@
+[
+    {
+        "soal": "Hotel Bintang 5 Jakarta",
+        "jawaban": [
+            "sheraton",
+            "the westin",
+            "kempinski",
+            "the langham",
+            "borobudur",
+            "hilton"
+        ]
+    },
+    {
+        "soal": "Perlengkapan Sekolah Anak Tk",
+        "jawaban": [
+            "pensil",
+            "botol minum",
+            "pensil warna",
+            "sapu tangan",
+            "hapusan",
+            "buku"
+        ]
+    },
+    {
+        "soal": "Disaat Apa Saja Orang Membawa Kamera",
+        "jawaban": [
+            "ulang tahun",
+            "pesta",
+            "pernikahan",
+            "piknik",
+            "wisuda",
+            "reuni",
+            "arisan",
+            "gathering"
+        ]
+    },
+    {
+        "soal": "Warna Cat Rambut",
+        "jawaban": [
+            "merah",
+            "kuning",
+            "coklat",
+            "hijau",
+            "ungu",
+            "emas",
+            "perak"
+        ]
+    },
+    {
+        "soal": "Artis Yang Rambutnya Kribo",
+        "jawaban": [
+            "edi brokoli",
+            "ahmad albar",
+            "giring",
+            "marcell"
+        ]
+    },
+    {
+        "soal": "Jenis Anjing Terkenal",
+        "jawaban": [
+            "bulldog",
+            "husky",
+            "beagle",
+            "akita",
+            "poodle"
+        ]
+    },
+    {
+        "soal": "Film Komedi Televisi",
+        "jawaban": [
+            "cek toko sebelah",
+            "my stupid boss",
+            "warkop dki",
+            "warkop dki reborn",
+            "imperfect",
+            "koala kumal",
+            "terlalu tampan",
+            "hangout"
+        ]
+    },
+    {
+        "soal": "Pak Haji Tidak Mau Difoto",
+        "jawaban": [
+            "ajinomoto"
+        ]
+    },
+    {
+        "soal": "Siapakah Tokoh Terkenal Nyata/Fiksi Yang Berhubungan Dengan Cinta",
+        "jawaban": [
+            "romeo dan juliet",
+            "paris dan helen",
+            "cleoparta dan mark",
+            "dante dan beatrice",
+            "rama sinta",
+            "arjuna"
+        ]
+    },
+    {
+        "soal": "Orang Mengernyitkan Alisnya Karena",
+        "jawaban": [
+            "berpikir",
+            "bingung",
+            "terkejut",
+            "heran"
+        ]
+    },
+    {
+        "soal": "Name The Planet In Our Solar System",
+        "jawaban": [
+            "mars",
+            "pluto",
+            "venus",
+            "jupiter",
+            "earth",
+            "uranus",
+            "saturn",
+            "mercury",
+            "neptune"
+        ]
+    },
+    {
+        "soal": "Film Drama Korea Terkenal",
+        "jawaban": [
+            "squid game",
+            "vincenzo",
+            "hometown cha-cha-cha",
+            "nevertheless",
+            "youth of may",
+            "move to heaven"
+        ]
+    },
+    {
+        "soal": "Kalau Lagi Ujan",
+        "jawaban": [
+            "gelap",
+            "ada petir",
+            "basah",
+            "banjir",
+            "becek",
+            "sange"
+        ]
+    },
+    {
+        "soal": "Makanan Yang Termasuk Gorengan",
+        "jawaban": [
+            "ubi",
+            "tahu",
+            "tempe",
+            "pisang",
+            "cireng",
+            "bakwan",
+            "singkong"
+        ]
+    },
+    {
+        "soal": "Mainan Murah Yang Asyik",
+        "jawaban": [
+            "halma",
+            "catur",
+            "sekrebel",
+            "monopoli"
+        ]
+    },
+    {
+        "soal": "Jenis Jeruk",
+        "jawaban": [
+            "jeruk bali",
+            "jeruk keprok",
+            "jeruk sunkiss",
+            "jeruk betik",
+            "jeruk limau"
+        ]
+    },
+    {
+        "soal": "Berapa Lama Orang Menjemur Kasur",
+        "jawaban": [
+            "satu jam",
+            "empat jam",
+            "sehari"
+        ]
+    },
+    {
+        "soal": "Jenis Ketrampilan Yang Dimintati Anak Cowok",
+        "jawaban": [
+            "musik",
+            "olahraga",
+            "otomotif",
+            "elektronik",
+            "komputer",
+            "bela diri"
+        ]
+    },
+    {
+        "soal": "Merk Helm",
+        "jawaban": [
+            "kyt",
+            "ink",
+            "bmc",
+            "index",
+            "agv"
+        ]
+    },
+    {
+        "soal": "Majalah Ekonomi Dan Keuangan",
+        "jawaban": [
+            "info bisnis internasional",
+            "oktomagazine",
+            "majalah ceo",
+            "majalah stabilitas",
+            "marketing",
+            "indonesian tax review"
+        ]
+    },
+    {
+        "soal": "Film Drama Korea Terkenal",
+        "jawaban": [
+            "winter sonata",
+            "my sassy girl",
+            "pop corn",
+            "endless love",
+            "a wish upon a star",
+            "hotelier",
+            "my love patsy",
+            "all about eve"
+        ]
+    },
+    {
+        "soal": "Nama Operator Hp",
+        "jawaban": [
+            "indosat",
+            "mentari",
+            "telkomsel",
+            "mobile 8"
+        ]
+    },
+    {
+        "soal": "Orang Jelek",
+        "jawaban": [
+            "gue",
+            "elo",
+            "ya kamu",
+            "sialan lu ngumpat gue"
+        ]
+    },
+    {
+        "soal": "Lagu Safeband",
+        "jawaban": [
+            "sempurnakan hidup",
+            "lupakan aku",
+            "sampai kapan",
+            "lupakan kehangatan",
+            "seumur dunia"
+        ]
+    },
+    {
+        "soal": "Jenis Akademi Itu",
+        "jawaban": [
+            "pariwisata",
+            "perawat",
+            "perbankan",
+            "sekretaris",
+            "polisi",
+            "abri"
+        ]
+    },
+    {
+        "soal": "Tokoh Kartun Spongebon",
+        "jawaban": [
+            "spongebob",
+            "patrick",
+            "plankton",
+            "squidward",
+            "sandy",
+            "gary",
+            "mr krabs"
+        ]
+    },
+    {
+        "soal": "Makanan Yang Terbuat Dari Kedele And Kacang-Kacangan",
+        "jawaban": [
+            "tempe",
+            "tahu",
+            "tauco",
+            "kecam",
+            "oncom"
+        ]
+    },
+    {
+        "soal": "Benda Yang Sering Ada Di Laboratorium",
+        "jawaban": [
+            "jas",
+            "alat peraga",
+            "mikroskop",
+            "tabung"
+        ]
+    },
+    {
+        "soal": "Buah Yang Ga Ada Bijinya",
+        "jawaban": [
+            "bengkoang"
+        ]
+    },
+    {
+        "soal": "Kebiasaan Orang Baru Terbangun",
+        "jawaban": [
+            "menguap",
+            "gosok mata",
+            "menggeliat",
+            "marah",
+            "pergi kencing",
+            "beresin kasur"
+        ]
+    },
+    {
+        "soal": "Orang Jelek",
+        "jawaban": [
+            "gue",
+            "elo",
+            "ya kamu",
+            "sialan lu ngumpat gue"
+        ]
+    },
+    {
+        "soal": "Jenis Hewan Vertebrata",
+        "jawaban": [
+            "reptilia",
+            "aves",
+            "amphibia",
+            "mamalia",
+            "pisces"
+        ]
+    },
+    {
+        "soal": "Hewan Yang Ada Di Rumah",
+        "jawaban": [
+            "kucing",
+            "anjing",
+            "cicak",
+            "tikus",
+            "lalat",
+            "nyamuk",
+            "kecoa",
+            "semut"
+        ]
+    },
+    {
+        "soal": "Nama Mall Yang Ada Di Pluit Jak-Ut",
+        "jawaban": [
+            "pluit junction",
+            "imperium mall",
+            "pluit village"
+        ]
+    },
+    {
+        "soal": "Mantan Perenang Indonesia Yang Pernah Mengharumkan Nama Bangsa",
+        "jawaban": [
+            "ricak sambera"
+        ]
+    },
+    {
+        "soal": "Gambar Yang Melambangkan Pancasila",
+        "jawaban": [
+            "padi dan kapas",
+            "bintang",
+            "kepala banteng",
+            "pohon beringin",
+            "rantai baja"
+        ]
+    },
+    {
+        "soal": "Bintang Kocak Indonesia Yang Telah Almarhum",
+        "jawaban": [
+            "dono",
+            "kasino",
+            "benyamin",
+            "iskak",
+            "gepeng",
+            "bin slamet",
+            "ateng",
+            "pak tile",
+            "bendot"
+        ]
+    },
+    {
+        "soal": "Berapa Lama Orang Menjemur Kasur",
+        "jawaban": [
+            "satu jam",
+            "empat jam",
+            "sehari"
+        ]
+    },
+    {
+        "soal": "Majalah Opini",
+        "jawaban": [
+            "majalah tempo",
+            "gatra",
+            "berita indonesia",
+            "majalah trust"
+        ]
+    },
+    {
+        "soal": "Minuman Yang Disukai Pria Dewasa",
+        "jawaban": [
+            "bir",
+            "susu",
+            "kopi",
+            "teh",
+            "kopi susu",
+            "susu murni",
+            "liquor",
+            "rhum"
+        ]
+    },
+    {
+        "soal": "Merk Susu",
+        "jawaban": [
+            "bendera",
+            "dancow",
+            "nona"
+        ]
+    },
+    {
+        "soal": "Kebiasaan Orang Baru Terbangun",
+        "jawaban": [
+            "menguap",
+            "gosok mata",
+            "menggeliat",
+            "marah",
+            "pergi kencing",
+            "beresin kasur"
+        ]
+    },
+    {
+        "soal": "Name Of Snakes",
+        "jawaban": [
+            "anaconda",
+            "cobra",
+            "ahaetulla prasina",
+            "phython",
+            "rattle snake"
+        ]
+    },
+    {
+        "soal": "Hewan Yang Memiliki Kumis",
+        "jawaban": [
+            "kucing",
+            "tikus",
+            "hamster",
+            "anjing laut",
+            "singa laut",
+            "kelinci",
+            "harimau",
+            "singa",
+            "musang"
+        ]
+    },
+    {
+        "soal": "Apa yang dilakukan cewak liat tikus?",
+        "jawaban": [
+            "lari",
+            "teriak",
+            "pinsan",
+            "loncat"
+        ]
+    },
+    {
+        "soal": "Kereta Api Tercepat Di Jepang",
+        "jawaban": [
+            "shinkansen"
+        ]
+    },
+    {
+        "soal": "Personil White Lion",
+        "jawaban": [
+            "mike tramp",
+            "vito bratta",
+            "nicki capozzi",
+            "felix robinson"
+        ]
+    },
+    {
+        "soal": "Negara Piala Dunia 2006 Group A",
+        "jawaban": [
+            "germany",
+            "costa rica",
+            "poland",
+            "ecuador"
+        ]
+    },
+    {
+        "soal": "Macam Laptop Atau Notebook",
+        "jawaban": [
+            "ibm thinkpad t20",
+            "compac evo n200",
+            "apple ibook",
+            "compac ipaq 3835",
+            "handspring visor deluxe"
+        ]
+    },
+    {
+        "soal": "Apa Saja Yang Tidak Dapat Diremas / Disentuh",
+        "jawaban": [
+            "bayangan",
+            "udara",
+            "hantu",
+            "aura"
+        ]
+    },
+    {
+        "soal": "Nama Orang Pemeran Film Lucu Yang Membuat Orang Tertawa Terbahak Bahak",
+        "jawaban": [
+            "mandra",
+            "omas",
+            "mpok ati",
+            "komeng"
+        ]
+    },
+    {
+        "soal": "Nama Pelatih Sepak Bola",
+        "jawaban": [
+            "sir alex ferguson",
+            "arsene wenger",
+            "jose mourinho",
+            "fabio capello",
+            "del bosque",
+            "carlo anchelotti"
+        ]
+    },
+    {
+        "soal": "Sebelum Tidur Aku",
+        "jawaban": [
+            "cuci kaki",
+            "cuci tangan",
+            "cuci muka",
+            "gosok gigi",
+            "minum susu",
+            "menguap",
+            "berdoa",
+            "cium anjing",
+            "membaca",
+            "merokok"
+        ]
+    },
+    {
+        "soal": "Plaza Di Medan",
+        "jawaban": [
+            "medan mall",
+            "deli plaza",
+            "medan plaza",
+            "thamrin plaza",
+            "perisai plaza"
+        ]
+    },
+    {
+        "soal": "Penyanyi Jazz Indonesia",
+        "jawaban": [
+            "tompi",
+            "syaharani",
+            "andien",
+            "indra lesmana"
+        ]
+    },
+    {
+        "soal": "Sesuatu Yang Ditaburkan",
+        "jawaban": [
+            "gula",
+            "garam",
+            "coklat",
+            "bumbu",
+            "pupuk",
+            "tepung"
+        ]
+    },
+    {
+        "soal": "Jaringan Kartu Gsm",
+        "jawaban": [
+            "halo",
+            "mentari",
+            "axis",
+            "xl",
+            "im3",
+            "simpati"
+        ]
+    },
+    {
+        "soal": "Nama Tempat Dugem Di Surabaya",
+        "jawaban": [
+            "scudeto",
+            "kunang-kunang",
+            "desperado",
+            "station",
+            "jjs",
+            "colors",
+            "qemi",
+            "cangkir"
+        ]
+    },
+    {
+        "soal": "Nama-Nama Restoran Impor?",
+        "jawaban": [
+            "cfc",
+            "pizza hut",
+            "texas fried chicken",
+            "dunkin donut",
+            "kfc"
+        ]
+    },
+    {
+        "soal": "Panglima Militer",
+        "jawaban": [
+            "pandiv",
+            "pangdam",
+            "pangkostrad",
+            "panglima tni"
+        ]
+    },
+    {
+        "soal": "Nama Kitab Suci",
+        "jawaban": [
+            "al-quran",
+            "injil",
+            "taurat",
+            "tripitaka",
+            "zabur"
+        ]
+    },
+    {
+        "soal": "Pakaian",
+        "jawaban": [
+            "daster",
+            "kaos",
+            "kaos oblong",
+            "jass",
+            "kemeja"
+        ]
+    },
+    {
+        "soal": "Pembalap Sepeda Yang Menjuarai Enam Kali Tour",
+        "jawaban": [
+            "lance amstrong"
+        ]
+    },
+    {
+        "soal": "Name Of Vegetable",
+        "jawaban": [
+            "carrot",
+            "tomato",
+            "garlic",
+            "eggplant",
+            "spinach",
+            "chickpen",
+            "shallots",
+            "chinese cabage",
+            "watercress",
+            "coleslaw",
+            "bean sprouts"
+        ]
+    },
+    {
+        "soal": "Lagu Restrain",
+        "jawaban": [
+            "geminikiller"
+        ]
+    },
+    {
+        "soal": "Pulau Besar Di Dunia",
+        "jawaban": [
+            "ellesmere",
+            "victoria",
+            "inggris raya",
+            "honshu",
+            "sumatra",
+            "baffin",
+            "madagaskar",
+            "kalimantan",
+            "irian",
+            "tanah hijau"
+        ]
+    },
+    {
+        "soal": "Title Song Of Weezer",
+        "jawaban": [
+            "photograph",
+            "butterfly",
+            "dope nose",
+            "island in the sun",
+            "no one else",
+            "girlfriend"
+        ]
+    },
+    {
+        "soal": "Bentuk Sederhana Sebuah Benda",
+        "jawaban": [
+            "bulat",
+            "segitiga",
+            "bujur sangkar",
+            "kerucut",
+            "persegi panjang"
+        ]
+    },
+    {
+        "soal": "Tumbuhan Tundra",
+        "jawaban": [
+            "lumut",
+            "williow",
+            "birch",
+            "kulampair"
+        ]
+    },
+    {
+        "soal": "Apa Yang Membuat Orang Tertarik Membeli Kue",
+        "jawaban": [
+            "warna",
+            "bentuk",
+            "harga",
+            "rasa"
+        ]
+    },
+    {
+        "soal": "Negara Piala Duni 2006 Group F",
+        "jawaban": [
+            "brazil",
+            "croatia",
+            "japan",
+            "australia"
+        ]
+    },
+    {
+        "soal": "Makanan Ringan Yang Biasa Dimakan Anak2",
+        "jawaban": [
+            "es",
+            "makroni",
+            "agar-agar",
+            "coklat",
+            "permen",
+            "chiki"
+        ]
+    },
+    {
+        "soal": "Negara Piala Dunia 2006 Group D",
+        "jawaban": [
+            "mexico",
+            "iran",
+            "angola",
+            "portugal"
+        ]
+    },
+    {
+        "soal": "Yang Berhubungan Dengan Matematika",
+        "jawaban": [
+            "angka",
+            "kali",
+            "kurang",
+            "tambah",
+            "bagi",
+            "rumus"
+        ]
+    },
+    {
+        "soal": "Mainan Apa Saja Yang Ada Di Dunia Fantasi",
+        "jawaban": [
+            "halilintar",
+            "niagara",
+            "arung jeram",
+            "kora-kora",
+            "pontang-panting"
+        ]
+    },
+    {
+        "soal": "Benda Untuk Membuat Ranjang",
+        "jawaban": [
+            "kayu",
+            "per",
+            "besi",
+            "kain",
+            "kasur"
+        ]
+    },
+    {
+        "soal": "Apa yang menyebabkan suara serak?",
+        "jawaban": [
+            "teriak",
+            "batuk",
+            "nangis",
+            "ngedem"
+        ]
+    },
+    {
+        "soal": "Nasi Bisa Dibuat Menjadi Makanan Apa Saja",
+        "jawaban": [
+            "nasi goreng",
+            "nasi uduk",
+            "ketupat",
+            "bacang",
+            "lontong"
+        ]
+    },
+    {
+        "soal": "Yang dilakukan setelah gajian?",
+        "jawaban": [
+            "belanja",
+            "bayar hutang",
+            "cek saldo",
+            "menabung"
+        ]
+    },
+    {
+        "soal": "Perabotan Rumah Yang Sering Diganti",
+        "jawaban": [
+            "meja",
+            "kursi",
+            "lemari",
+            "sofa",
+            "mebel",
+            "telephone",
+            "rak buku"
+        ]
+    },
+    {
+        "soal": "Virus Lokal",
+        "jawaban": [
+            "fawn",
+            "rontok bro",
+            "tabaru",
+            "kangen",
+            "roro",
+            "pesin"
+        ]
+    },
+    {
+        "soal": "Disaat Apa Saja Orang Akan Membawa Payung",
+        "jawaban": [
+            "panas",
+            "hujan",
+            "melawat orang mati"
+        ]
+    },
+    {
+        "soal": "Acara Kuis Di Tv",
+        "jawaban": [
+            "siapa berani",
+            "famili 100",
+            "tepat berlipat",
+            "who want to be a millionaire"
+        ]
+    },
+    {
+        "soal": "Nama Tokoh Komik",
+        "jawaban": [
+            "doraemon",
+            "sinchan",
+            "conan",
+            "inuyasha",
+            "sherlock holmes"
+        ]
+    },
+    {
+        "soal": "Dimana Banyak Kangguru",
+        "jawaban": [
+            "australia",
+            "irian jaya"
+        ]
+    },
+    {
+        "soal": "Wali Songo",
+        "jawaban": [
+            "sunan kalijaga",
+            "sunan kudus",
+            "sunan ampel",
+            "sunan muria",
+            "sunan gunung jati",
+            "sunan giri",
+            "maulana malik ibrahim",
+            "sunan bonang",
+            "sunan drajat"
+        ]
+    },
+    {
+        "soal": "Jenis Wine Terkenal",
+        "jawaban": [
+            "chardonnay",
+            "cabernet sauvignon"
+        ]
+    },
+    {
+        "soal": "Apa Aja Yang Ada Di Kantor Polisi",
+        "jawaban": [
+            "polisi",
+            "borgol",
+            "pistol",
+            "komputer",
+            "mesin tik",
+            "bui",
+            "surat tilang"
+        ]
+    },
+    {
+        "soal": "Command Yang Digunakan Dalam Irc",
+        "jawaban": [
+            "brb",
+            "bye",
+            "asl",
+            "gtg"
+        ]
+    },
+    {
+        "soal": "Macam Senjata Tajam",
+        "jawaban": [
+            "pisau",
+            "pedang",
+            "keris",
+            "bambu runcing",
+            "jarum",
+            "samurai",
+            "tombak",
+            "golok",
+            "trisula"
+        ]
+    },
+    {
+        "soal": "Apa Yang Terucap Saat Kamu Dicium Doi",
+        "jawaban": [
+            "lagi dong",
+            "asik2",
+            "wakz",
+            "slurp"
+        ]
+    },
+    {
+        "soal": "Acara Jumpa Fans Sering Dilaksanakan Dimana",
+        "jawaban": [
+            "kafe",
+            "lapangan",
+            "mall",
+            "jalanan",
+            "pub"
+        ]
+    },
+    {
+        "soal": "Alat Berkomunikasi",
+        "jawaban": [
+            "handphone",
+            "surat",
+            "telepon",
+            "email",
+    },
+    {
+        "soal": "Petinggi D'Lawals",
+        "jawaban": [
+          "Nael",
+          "Andi",
+        ]
+    },
+    {
+        "soal": "Member D'Lawals",
+        "jawaban": [
+          "Lio",
+          "Ayas",
+          "Kio",
+          "Rio",
+          "Akmal",
+          "Zan",
+        ]
+    }
+]
